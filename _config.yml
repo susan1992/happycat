@@ -26,11 +26,12 @@ license_image_url: https://licensebuttons.net/l/by-nc-nd/3.0/88x31.png
 
 ### Feed links, optional
 itunes_url: https://podcasts.apple.com/de/podcast/%E8%87%AA%E5%BE%97%E5%85%B6%E4%B9%90/id1526178818?l=en
-google_play_url: https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8yYWQzOTgxNC9wb2RjYXN0L3Jzcw==
+#google_play_url: https://www.google.com/podcasts?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy8yYWQzOTgxNC9wb2RjYXN0L3Jzcw==
 spotify_url: https://open.spotify.com/show/6H3y8zUN01RuPed94W23k6
 breaker_url: https://www.breaker.audio/zi-de-qi-le
 pocket_url: https://pca.st/ojwfex61
 radiopublic_url: https://radiopublic.com/-GOVYml
+xiaoyuzhou_url: https://www.xiaoyuzhoufm.com/podcast/5f2970779504bbdb774de57d?s=eyJ1IjoiNWYyOTZmMmFlMGY1ZTcyM2JiYmNmZWNiIiwiZCI6MX0%3D
 
 theme: jekyll-bootflat
 
